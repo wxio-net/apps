@@ -43,8 +43,8 @@ YouliYouli 是一款在 **macOS** 上运行的桌面程序，通过内置的 **y
 
 ## 四、安装步骤（从压缩包安装）
 
-1. **解压**  
-   若收到的是 `YouliYouli.zip`，双击解压后会得到 **`YouliYouli.app`**。
+1. **下载并解压**  
+   从 https://github.com/wxio-net/apps/releases 下载最新版 `YouliYouli.zip`，双击解压后会得到 **`YouliYouli.app`**。
 
 2. **移入「应用程序」（推荐）**  
    将 `YouliYouli.app` 拖入 **访达 → 应用程序** 文件夹，便于启动与统一管理。
