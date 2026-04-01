@@ -1,8 +1,8 @@
-# YouliYouli 安装与使用说明
+# YouliYouli
 
 ## 一、应用简介
 
-YouliYouli 是一款在 **macOS** 上运行的桌面程序，通过内置的 **yt-dlp**、**ffmpeg**、**Node** 等组件，从网络获取视频流并保存到本地。应用免费使用，体积较大是因为自带运行所需的可执行文件与依赖。
+YouliYouli 是一款在 **macOS** 上运行的视频下载应用，通过内置的 **yt-dlp**、**ffmpeg**、**Node** 等组件，从网络获取视频流并保存到本地。应用免费使用，体积较大是因为自带运行所需的可执行文件与依赖。
 
 使用前请自行遵守视频所在平台的**服务条款**与**版权法律**，仅下载你有权获取的内容。
 
@@ -29,9 +29,9 @@ YouliYouli 是一款在 **macOS** 上运行的桌面程序，通过内置的 **y
 
    从 https://github.com/wxio-net/apps/releases 下载最新版 `YouliYouli.zip`，双击解压后会得到 **`YouliYouli.app`**。
 
-2. **移入「应用程序」**
+2. **移入应用程序**
 
-   将 `YouliYouli.app` 拖入 **访达(Finder)** → **应用程序(Applications) ** 文件夹，便于启动与统一管理。
+   将 `YouliYouli.app` 拖入 **访达** → **应用程序** 文件夹，便于启动与统一管理。
 
 3. **首次打开**  
 
@@ -43,7 +43,7 @@ YouliYouli 是一款在 **macOS** 上运行的桌面程序，通过内置的 **y
 
    若系统提示 **来自身份不明的开发者** 导致无法运行，请在：**系统设置 → 隐私与安全性** 中，对本次拦截选择 **仍要打开**。
 
-   说明：**终端 (Terminal)** 为 macOS 的命令行工具，在启动台 Launchpad 或 Spotlight 中搜索打开即可
+   说明：**终端 (Terminal)** 为 macOS 的命令行工具，在启动台 `Launchpad` 或 `Spotlight` 中搜索打开即可
 
 4. **读取浏览器数据**
 
